@@ -1,5 +1,7 @@
 # Komodo Secrets Sync
 
+> **⚠️ This project is archived.** I decided not to use [Komodo](https://github.com/moghtech/komodo) for my homeservers and built [ComposeFlux](https://github.com/veerendra2/composeflux) instead—a GitOps continuous deployment for Docker Compose with native secrets manager integration.
+
 > 🚧 _Currently in beta._
 
 Sync secrets from a secrets manager into [Komodo](https://github.com/moghtech/komodo) (Currently supports [Bitwarden Secrets Manager](https://bitwarden.com/products/secrets-manager/))
